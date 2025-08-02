@@ -9,8 +9,8 @@
 </p>
 
 # 🔥 Updates
-
-*   \[3/2024\] **VMBench** evaluation code & prompt set released!
+*   \[7/2025\] Paper accepted to ICCV 2025!
+*   \[3/2025\] **VMBench** evaluation code & prompt set released!
     
 
 # 📣 Overview
